@@ -1,4 +1,4 @@
-\![](https://github-profile-trophy.vercel.app/?username=CiaOfii&theme=shadow_blue&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=CiaOfii&theme=shadow_blue&no-bg=false&margin-w=4)
 
 ### 💫 About Me:
 
