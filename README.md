@@ -25,16 +25,10 @@ Hi there! 👋 I'm an Informatics Engineering student on a dedicated journey to 
 
 ---
 
-### 📈 GitHub Stats & Streak
+### 📈 GitHub Streak Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CiaOfii&theme=dark&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiaOfii&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
