@@ -1,19 +1,54 @@
-# 💫 About Me:
-Hi there! 👋 I'm an Informatics Engineering student on a dedicated journey to become a Software Engineer. Currently, I'm focusing on building a strong foundation in core programming languages like Python and Java, while exploring algorithms, data structures, and AI to write clean and efficient code.<br><br><br>🔭 I’m currently working on: "strengthening my foundational programming skills and exploring various languages to prepare for a career in Software Engineering."<br><br>👯 I’m looking to collaborate on: "beginner-friendly open-source projects where I can apply my knowledge of Python, Java, and software design."<br><br>🤝 I’m looking for help with: "transitioning from core language concepts to building full-scale software projects."<br><br>🌱 I’m currently learning: "the core principles of Software Engineering, advanced Data Structures, and Artificial Intelligence."<br><br>💬 Ask me about: "programming fundamentals, my thoughts on the financial markets, or anything about cats! 🐈"<br><br>⚡ Fun fact: "When I step away from the keyboard, I'm usually exploring photography 📸 or keeping up with trading and market trends! 📈"
+### 💫 About Me:
 
+Hi there! 👋 I'm an Informatics Engineering student on a dedicated journey to become a Software Engineer. Currently, I'm focusing on building a strong foundation in core programming languages like Python and Java, while exploring algorithms, data structures, and AI to write clean and efficient code.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/DbTRbd6Q) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mufidhusnaf?igsi=ODZqc3B5bHA5bno0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mufid-husna-fitrianto-432962270?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tiktok.com/@ciaoofi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:studywithmufid@gmail.com) 
+* 🔭 I’m currently working on: "strengthening my foundational programming skills and exploring various languages to prepare for a career in Software Engineering."
+* 👯 I’m looking to collaborate on: "beginner-friendly open-source projects where I can apply my knowledge of Python, Java, and software design."
+* 🤝 I’m looking for help with: "transitioning from core language concepts to building full-scale software projects."
+* 🌱 I’m currently learning: "the core principles of Software Engineering, advanced Data Structures, and Artificial Intelligence."
+* 💬 Ask me about: "programming fundamentals, my thoughts on the financial markets, or anything about cats! 🐈"
+* ⚡ Fun fact: "When I step away from the keyboard, I'm usually exploring photography 📸 or keeping up with trading and market trends! 📈"
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=plastic&logo=Meta&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=plastic&logo=Itch.io&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=plastic&logo=godot-engine)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Mufid Husna Fitrianto&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Mufid Husna Fitrianto&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mufid Husna Fitrianto&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mufid Husna Fitrianto&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
+### 💻 Tech Stack & Tools
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+*(Catatan: Kamu bisa menambahkan kembali badges lengkapmu dari GPRM di bagian ini nanti)*
+
+---
+
+### 🏆 GitHub Stats
+
+![](https://github-profile-trophy.vercel.app/?username=CiaOfii&theme=shadow_blue&no-bg=false&margin-w=4)
+
+---
+
+### 🎮 Play a Game!
+
+<div align="center">
+  <!-- Snake Game -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/CiaOfii/CiaOfii/raw/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/CiaOfii/CiaOfii/raw/output/github-contribution-grid-snake.svg">
+    <img alt="github-contribution-grid-snake" src="https://github.com/CiaOfii/CiaOfii/raw/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+  <br>
+  <em>The Snake Game represents my daily contributions!</em>
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Pacman Game -->
+  <a href="https://github.com/CiaOfii/CiaOfii">
+    <img src="https://github-readme-pacman.vercel.app/api?username=CiaOfii&theme=dark" alt="Pacman Game" />
+  </a>
+  <br>
+  <em>A classic retro twist with Pacman!</em>
+</div>
